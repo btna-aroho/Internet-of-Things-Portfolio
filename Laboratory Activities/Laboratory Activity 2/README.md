@@ -19,7 +19,7 @@ This activity is an Arduino-based circuit designed to control a series of five L
 - **Loop Logic:** The main loop() function restarts, and the cycle begins again from the top.
 
 ## Reference
-- [PDF File with compiled website links] (https://github.com/btna-aroho/Internet-of-Things-Portfolio/blob/main/Laboratory%20Activities/Laboratory%20Activity%202/Act2-References.pdf)
+- [PDF File with compiled website links](https://github.com/btna-aroho/Internet-of-Things-Portfolio/blob/main/Laboratory%20Activities/Laboratory%20Activity%202/Act2-References.pdf)
 
 ## Contributors
 **Leader:** Mariano, Jamil S.
