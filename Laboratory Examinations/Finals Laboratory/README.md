@@ -27,7 +27,7 @@ The system acts as a "Serial-to-HTTP Bridge." The Arduino handles the physical h
 ## Hardware Setup
 - **Microcontroller:** Arduino Uno (R4)
 - **Input Device:** Push Button
-- **Connections:** USB Cable; *Internal Pull-Up Resistors is enabled in this project*
+- **Connections:** USB Cable; *Internal Pull-Up Resistor is enabled in this project*
 - **Breadboard and Jumper Wires**
 
 ## Project Flow
