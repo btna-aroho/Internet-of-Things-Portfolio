@@ -5,8 +5,7 @@
 ## Project Flow
 
 ## Contributors
-- Mariano, Jamil S.
-  </br>
+**Leader:** Mariano, Jamil S.
+### Members:
 - Arrojo, Betina B. (99)
-  </br>
 - Mendez, Rachelle Yazmhine C. (98)
