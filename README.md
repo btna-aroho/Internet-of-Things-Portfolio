@@ -26,10 +26,10 @@ This repository contains a list of submitted laboratory activities and laborator
 ## Laboratory Examinations:
 - [Midterm Laboratory](https://github.com/btna-aroho/Internet-of-Things-Portfolio/tree/main/Laboratory%20Examinations/Midterms%20Laboratory)
   </br>
-  -- **Overview:** This project is a Smart Light Monitoring System that measures ambient light intensity using a photoresistor. Based on the light levels, it activates specific status LEDs (Green, Yellow, Red) to indicate the environment (Cloudy, Normal, or Bright Sunlight). The system features a serial interface that allows users to switch between Automatic and Manual modes, and dynamically adjust threshold values while in Manual mode.
+  - **Overview:** This project is a Smart Light Monitoring System that measures ambient light intensity using a photoresistor. Based on the light levels, it activates specific status LEDs (Green, Yellow, Red) to indicate the environment (Cloudy, Normal, or Bright Sunlight). The system features a serial interface that allows users to switch between Automatic and Manual modes, and dynamically adjust threshold values while in Manual mode.
 - [Finals Laboratory](https://github.com/btna-aroho/Internet-of-Things-Portfolio/tree/main/Laboratory%20Examinations/Finals%20Laboratory)
   </br>
-  -- **Overview:** This project creates a physical interface for a web-based system. It consists of a hardware component (Arduino) that detects a physical button press and a software gateway (Python) that translates that physical action into a web request. When a user pushes a button on the hardware, the system identifies a specific "Group Number" and toggles a remote LED via a REST API.
+  - **Overview:** This project establishes a physical interface for a web-based IoT system. It allows a user to press a physical button connected to an Arduino to trigger a remote action (specifically, toggling an LED) on a web server. The system acts as a "Serial-to-HTTP Bridge." The Arduino handles the physical hardware interactions, while a Python script running on a computer acts as a gateway, reading signals from the Arduino via USB and forwarding them as API requests to a remote server over the local network.
 
 # Technology Tools Used
 1. Hardware: Arduino Kits
