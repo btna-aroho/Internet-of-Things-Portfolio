@@ -22,7 +22,7 @@ This repository contains a list of submitted laboratory activities and laborator
    - **Overview:** This activity establishes a bidirectional communication loop between an Arduino microcontroller and a Python script running on a computer. The system functions as a "feedback loop" where physical interactions on the Arduino (button presses) are sent to the computer for processing, and the computer sends commands back to the Arduino to control hardware outputs (LEDs).
 7. [Laboratory Activity 7: Controllling Arduino using FastAPI](https://github.com/btna-aroho/Internet-of-Things-Portfolio/tree/main/Laboratory%20Activities/Laboratory%20Activity%207)
     </br>
-   - **Overview:** This activity establishes a bi-directional communication system between a web server (FastAPI) and hardware (Arduino) wherein you can control three LEDs (Red, Green, Blue) via HTTP requests or physical buttons, and the system reports physical button presses back to the Python console.
+   - **Overview:** This activity demonstrates a Web-Controlled IoT System that integrates physical hardware control with a modern web API. It evolves beyond simple serial communication by using FastAPI (a Python web framework) to allow external applications (like a web browser or mobile app) to control the Arduino.
 ## Laboratory Examinations:
 - [Midterm Laboratory](https://github.com/btna-aroho/Internet-of-Things-Portfolio/tree/main/Laboratory%20Examinations/Midterms%20Laboratory)
   </br>
