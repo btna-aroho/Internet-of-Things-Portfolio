@@ -4,11 +4,11 @@
 
 ## Code Structure
 </br>
-- Variable Declaration
-  </br>
-  - Declares an integer array named "ledPins" holding values {12, 11, 10, 9, 8} to index the digital pins in the program.
-- **Setup Function**
-- Loop
+- Variable Declaration: Declares an integer array named "ledPins" holding values {12, 11, 10, 9, 8} to index the digital pins in the program.
+</br>
+- Setup Function: Initializes Serial communication for debugging and uses a for loop to configure every pin in the array as an OUTPUT using pinMode.
+</br>
+- Loop Logic: Executes two sequential loops. The first turns pins HIGH (on) with a 1000ms delay, and the second turns them LOW (off) with the same delay.
 </br>
 
 ## Hardware Setup
