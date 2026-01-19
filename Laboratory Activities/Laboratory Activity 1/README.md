@@ -10,8 +10,8 @@ This activity demonstrates how to program an Arduino microcontroller to control 
 
 ## Hardware Setup
 - **Microcontroller:** Arduino Uno (R3)
-- **Actuators:** 5x LED Pins (Red, Blue, Yellow, Green, Orange)
-- **Components:** Breadboard, Jumper Wires, 5x Resistors
+- **Components:** 5x LED Pins (Red, Blue, Yellow, Green, Orange), 5x Resistors
+- **Breadboard and Jumper Wires** 
   
 ## Project Flow
 - **Activation** **Sequence:** The code iterates through the array, turning on the LED at Pin 12, waiting 1 second, then turning on Pin 11, and so on until Pin 8.
