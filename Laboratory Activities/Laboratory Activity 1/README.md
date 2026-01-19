@@ -3,9 +3,10 @@
 ## Code Structure
 ## Hardware Setup
 ## Project Flow
+
 ## Contributors
-- *Leader*: Mendez, Rachelle Yazmhine C.
-</br>
-Members:
+- Mendez, Rachelle Yazmhine C.
+  </br>
 - Arrojo, Betina B. (98)
+  </br>
 - Mariano, Jamil S. (99)
